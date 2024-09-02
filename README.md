@@ -1,5 +1,5 @@
 # SNS-v.0
-Download the setup file, install SNS and you'll be able to run it in your machine :D 
+Download the setup file(SNS-v.0-setup.7z), install SNS and you'll be able to run it in your machine :D 
 for development purposes, use the whole repo :p 
 
 After installing SNS, open the listener on another machine in your network. Paste the IP address of that machine in your machine's SNS and you're ready to go!
